@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="ic">
+    <file>boligrafo.png</file>
+    <file>mas (1).png</file>
+    <file>boton-editar.png</file>
+    <file>eliminar.png</file>
+    <file>imprimir-contorno-del-boton.png</file>
+    <file>mas (1).png</file>
+    <file>mas.png</file>
+  </qresource>
+</RCC>
